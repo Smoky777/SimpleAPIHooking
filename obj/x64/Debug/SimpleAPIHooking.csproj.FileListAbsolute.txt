@@ -1,0 +1,8 @@
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\bin\x64\Debug\SimpleAPIHashing.exe.config
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\bin\x64\Debug\SimpleAPIHashing.exe
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\bin\x64\Debug\SimpleAPIHashing.pdb
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\obj\x64\Debug\SimpleAPIHooking.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\obj\x64\Debug\SimpleAPIHooking.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\obj\x64\Debug\SimpleAPIHooking.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\obj\x64\Debug\SimpleAPIHashing.exe
+C:\Users\smoky\Source\Repos\SimpleAPIHashing\obj\x64\Debug\SimpleAPIHashing.pdb
